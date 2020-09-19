@@ -1,7 +1,6 @@
 # Sneaker Resell Predictor
 
-* Image data: https://drive.google.com/drive/folders/1u9vIV4jpeCfjLd9moWngG1Mo5rwdPTIW?usp=sharing
-* Full Medium article describing the project: https://medium.com/@tonyjyz/predicting-sneaker-resell-with-deep-learning-d3a78b144099
+* Medium article: https://bit.ly/2H84ILg
 
 Lervaging the extensive data from popular fashion and resell platforms, I developed a sneaker resell predictor in Pytorch using the VGG16 model to perform price regression analysis based on sneaker image data. 
 
